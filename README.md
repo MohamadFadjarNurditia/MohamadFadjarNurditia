@@ -36,11 +36,19 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Cluster Analysis
 
 ### Code example:
-1. [E-commerce Public Dataset](https://docs.google.com/spreadsheets/d/1nTqOAhAVGkUiP0P43mRNUye1EdEGn5E9dWBye_m154c/edit#gid=33787200)
-2. [Property List Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/2810a39d82f417147960cb11ab6e5796f8312b9c/Property_List_Dataset_Portfolio.ipynb)
+1. [E-commerce Public Dataset](https://colab.research.google.com/drive/1HZyoohWOYMeuBOG-6NbQFgi7LGDVe58z?usp=sharing#scrollTo=DJeiMEZIM322)
+2. [Property List Dataset](https://colab.research.google.com/drive/1HZyoohWOYMeuBOG-6NbQFgi7LGDVe58z?usp=sharing#scrollTo=DJeiMEZIM322)
 
 ## Dataviz using Tableau:
+* Connect and combine/ join datasets
+* Data formatting
+* Visualization
+* Calculated field
+* Interactive Dashboard
 
+## Project Based Analytics
+1. [Happiness Scores Country Southest Asia](https://colab.research.google.com/drive/1WWmPy3bwpr9BYCWRY--kx5MpamEyscer?usp=drive_link)
+   
 <!---
 MohamadFadjarNurditia/MohamadFadjarNurditia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
